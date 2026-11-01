@@ -1,0 +1,1 @@
+Поместите сюда лицензионные NauryzRedKeds.woff2 и IgraSans.woff2. Файлы не включены.
